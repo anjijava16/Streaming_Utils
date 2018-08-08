@@ -1,4 +1,11 @@
 # Streaming Info
+# Streaming Ingestion
+   i.   Logstash
+   ii.  Flume
+   iii. Kafka
+   iv.  Kinesis
+   
+
 # Introdution of Streaming Info
 # Different Messaging Systems (Active MQ,Jboss MQ,Websphere MQ)
 # Recollect Java Experience Different MQ Systesms Like (Active MQ,Jboss MQ,Websphere MQ & Weblogic MQKaf
