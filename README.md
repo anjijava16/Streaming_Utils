@@ -1,9 +1,9 @@
 # Streaming Info
 # Streaming Ingestion
-   i.   Logstash
-   ii.  Flume
-   iii. Kafka
-   iv.  Kinesis
+   i)  Logstash
+   ii)  Flume
+   iii) Kafka
+   iv)  Kinesis
    
 
 # Introdution of Streaming Info
